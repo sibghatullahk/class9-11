@@ -18,25 +18,25 @@ export default function Home() {
     {
       carImage: '/crv.png',
       carName: 'Tesla Model S',
-      carPrice: '$80,000',
+      carPrice: '$80000',
       carReviews: '150',
     },
     {
       carImage: '/crv1.png',
       carName: 'Ford Mustang',
-      carPrice: '$55,000',
+      carPrice: '$55000',
       carReviews: '120',
     },
     {
       carImage: '/Rush.png',
       carName: 'Chevrolet Camaro',
-      carPrice: '$60,000',
+      carPrice: '$60000',
       carReviews: '100',
     },
     {
       carImage: '/terios.png',
       carName: 'BMW M3',
-      carPrice: '$70,000',
+      carPrice: '$70000',
       carReviews: '200',
     },
   ];
